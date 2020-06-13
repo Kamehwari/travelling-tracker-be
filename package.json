@@ -1,0 +1,21 @@
+{
+  "name": "travel_track",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonschema": "^1.2.6",
+    "md5": "^2.2.1",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.16",
+    "uuid": "^8.1.0",
+    "ws": "^7.3.0"
+  }
+}
